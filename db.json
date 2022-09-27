@@ -1,0 +1,29 @@
+{
+  "compras": [
+    {
+      "item": "Rapadura",
+      "quantidade": 13,
+      "id": 1
+    },
+    {
+      "item": "Farofa",
+      "quantidade": 35,
+      "id": 2
+    },
+    {
+      "item": "Macarrao",
+      "quantidade": 78,
+      "id": 3
+    },
+    {
+      "item": "Pizza",
+      "quantidade": 18,
+      "id": 4
+    },
+    {
+      "item": "Queijo",
+      "quantidade": 5,
+      "id": 6
+    }
+  ]
+}
